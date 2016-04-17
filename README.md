@@ -47,3 +47,9 @@ In activity code：
 
 
 ![image](https://github.com/kuang2010/SpinnerView/blob/master/show2.png)
+
+
+
+Author
+
+The code is created by Kuang Ze Yu. 
