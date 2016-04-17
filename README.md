@@ -1,4 +1,4 @@
-use way：
+Usage way：
 In activity xml：
 
     <com.libraray.spinnerview.view.SpinnerView
