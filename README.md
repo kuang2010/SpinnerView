@@ -42,4 +42,4 @@ In activity code：
         }
 
     }
-
+![image](https://github.com/SpinnerView/showone.png)
