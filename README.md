@@ -1,6 +1,7 @@
 use way：
 In activity xml：
-   <com.libraray.spinnerview.view.SpinnerView
+
+    <com.libraray.spinnerview.view.SpinnerView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/sv_lib_activity"/>
