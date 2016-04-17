@@ -43,3 +43,6 @@ In activity code：
 
     }
 ![image](https://github.com/kuang2010/SpinnerView/blob/master/showone1.png) 
+
+
+![image](https://github.com/kuang2010/SpinnerView/blob/master/showtwo2.png)
