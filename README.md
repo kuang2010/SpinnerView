@@ -42,5 +42,4 @@ In activity code：
         }
 
     }
-![image]SpinnerView/showone.png
-![image]SpinnerView/showtwo.png
+
